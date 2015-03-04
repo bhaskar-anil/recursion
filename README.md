@@ -8,8 +8,8 @@ Suppose you want to know what is eligibility to become a prime minister of US, w
 
 You have to be national citizen of US, for which here is the rule:
 
-    You are a natural born of US (or)
-    Your parents are national citizen of US
+<ol>You are a natural born of US (or)</ol>
+<ol>Your parents are national citizen of US</ol>
 
 Now, first option straight forward makes you citizen of US, or same whole thing applies to your parents, which may again check for their parents ..and so on.
 
@@ -17,7 +17,8 @@ So there will be a straight forward answer, which is here 1st option. That is ca
 
 Here is a very simple pseudo code that can explain recursion:
 
+<pre>
 isEligibleForPrimeMinister checkCitizenship(You, yourParents){
-          Base Case {returns true(That you are US citizen)}
-          checkCitizenship(yourParents, YourGrandParents)
-          }
+            Base Case {returns true(That you are US citizen)}
+            checkCitizenship(yourParents, YourGrandParents)
+          }</pre>
