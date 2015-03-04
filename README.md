@@ -8,8 +8,8 @@ Suppose you want to know what is eligibility to become a prime minister of US, w
 
 You have to be national citizen of US, for which here is the rule:
 
-<ol>You are a natural born of US (or)</ol>
-<ol>Your parents are national citizen of US</ol>
+<ul><li>You are a natural born of US (or)</li>
+<li>Your parents are national citizen of US</li></ul>
 
 Now, first option straight forward makes you citizen of US, or same whole thing applies to your parents, which may again check for their parents ..and so on.
 
@@ -22,3 +22,13 @@ isEligibleForPrimeMinister checkCitizenship(You, yourParents){
             Base Case {returns true(That you are US citizen)}
             checkCitizenship(yourParents, YourGrandParents)
           }</pre>
+
+Here is the list of implemented examples:
+<i>If you learning it from scratch, I suggest try to write it by yourself then look the code to take a hint, don't memorize the code.
+<ol>
+<li>Factorial</li>
+<li>LCM</li>
+<li>GCD</li>
+<li>Prime Number</li>
+<li>Multiplication</li>
+</ol>
