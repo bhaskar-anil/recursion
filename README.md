@@ -1,6 +1,4 @@
 # recursion
-<i>I am no expert, I would more than happy if you fork and suggest me an improvement in code in terms of better time complexity of code.</i>
-
 by defination: Recursion is the repeated application of a recursive procedure or definition.
 
 To understand the recursion we can take an example as I gave answer on stackoverflow <a href="http://stackoverflow.com/questions/21032358/problems-with-understanding-recursion/28824792#28824792">here</a>
@@ -32,3 +30,5 @@ Here is the list of implemented examples:
 <li>Prime Number</li>
 <li>Multiplication</li>
 </ol>
+
+PS: <i>I am no expert, I would more than happy if you fork and suggest me an improvement in code in terms of better time complexity of code.</i>
