@@ -3,7 +3,7 @@ Example of recursive functions using Java.
 
 Recursion: The repeated application of a recursive procedure or definition.
 
-To understand the recursion we can take an example as I gave answer here
+To understand the recursion we can take an example as I gave answer on stackoverflow <a href="http://stackoverflow.com/questions/21032358/problems-with-understanding-recursion/28824792#28824792">here</a>
 Suppose you want to know what is eligibility to become a prime minister of US, which is:
 
 You have to be national citizen of US, for which here is the rule:
