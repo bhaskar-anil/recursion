@@ -21,14 +21,17 @@ isEligibleForPrimeMinister checkCitizenship(You, yourParents){
             checkCitizenship(yourParents, YourGrandParents)
           }</pre>
 
-Here is the list of implemented examples:
+I have written some very basic examples that uses recursion:
 <i>If you learning it from scratch, I suggest try to write it by yourself then look the code to take a hint, don't memorize the code.
+Find simple code for these in Main.java
 <ol>
 <li>Factorial</li>
+<li>Multiply two numbers using recursion</li>
 <li>LCM</li>
+<li>Sum of digits of a number</li>
+<li>Power of a number</li>
 <li>GCD</li>
 <li>Prime Number</li>
-<li>Multiplication</li>
 </ol>
 
 PS: <i>I am no expert, I would more than happy if you fork and suggest me an improvement in code in terms of better time complexity of code.</i>
